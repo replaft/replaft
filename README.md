@@ -1,6 +1,6 @@
-# replaft
+# replicait
 
-The replication on Raft
+A replication implementation for Git
 
 ## Reference
 
