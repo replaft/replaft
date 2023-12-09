@@ -1,4 +1,4 @@
-# replicait
+# repligit
 
 A replication implementation for Git
 
