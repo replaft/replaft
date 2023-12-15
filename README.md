@@ -1,6 +1,6 @@
-# repligit
+# server
 
-A replication implementation for Git
+Repligit server
 
 ## Reference
 
